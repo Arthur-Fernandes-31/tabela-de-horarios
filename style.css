@@ -1,0 +1,47 @@
+.corCinza{
+    background-color: rgb(83, 83, 83);
+}
+.corLaranja{
+    background-color: rgba(224, 153, 19, 0.877);
+
+}
+.corVermelho{
+    background-color: rgb(235, 67, 67);
+}
+.corVerde{
+    background-color: rgb(70, 219, 70);
+}
+.corAzul{
+    background-color: blue;
+}
+.corAzulclaro{
+    background-color: rgb(99, 99, 253);
+}
+.corRoxo{
+    background-color: rgb(140, 36, 238);
+}
+.table, th{
+    border: solid 1px black;
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+}
+.table, td{
+    border: solid 1px black;
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    position: relative;
+}
+h2{
+    font-size: 40px;
+    position: relative;
+    top: 25px;
+    text-align: center;
+}
+td:hover{
+    background-color: pink;
+}
